@@ -13,7 +13,7 @@ from numpy import genfromtxt
 
 
 ####### EDIT THIS ######
-ProjectFileName = "PyMAD.py"
+ProjectFileName = "PyMADD.py"
 ########################
 wdir = str(os.getcwd())+r"\\"
 now = datetime.datetime.now()
